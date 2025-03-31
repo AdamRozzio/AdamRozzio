@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AdamRozzio
-- 👀 I’m interested in tackeling health related issues with Applied Mathematics.
-- 🌱 I’m currently learning Stats,Optimisation and Deep-learning for Medical Imaging
+- 👀 I’m interested in tackeling health/energy related issues with Applied Mathematics.
 - 📫 How to reach me : adam.rozzio@ens-paris-saclay.fr
 
 
