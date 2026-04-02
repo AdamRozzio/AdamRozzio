@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdamRozzio
-- 👀 I’m interested in tackeling health/energy related issues with Applied Mathematics.
+- 👀 I’m interested in tackeling health/energy/societal related issues with Applied Mathematics.
 - 📫 How to reach me : adam.rozzio@ens-paris-saclay.fr
 
 
